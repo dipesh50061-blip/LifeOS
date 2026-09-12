@@ -44,6 +44,9 @@ desktop.ini
 *.db-shm
 *.db-wal
 
+# LifeOS local database
+lifeos.db
+
 # Python packaging
 build/
 dist/
